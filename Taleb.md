@@ -33,7 +33,9 @@ Applied Epistemology
 Fooled By Randomness
 ====================
 
-Humans are not good a probablities.
+## Humans are not good a probablities. ##
+
+## Humans really like causal relationships. ##
 
 ////
 
@@ -44,12 +46,35 @@ Tom the Turkey gets Fooled by Randomness
 
 ////
 
-Picture of Andy
+Andy the Farmer
+===============
+
+![](https://raw.github.com/jachin/cw-unconf-taleb/master/Andy.jpg)
+
+////
+
+![](http://farm7.staticflickr.com/6053/6384983627_7b6babf227_z.jpg)
+
+////
+
+Tom and One Really Bad (in late November)
+=========================================
+
+![](https://raw.github.com/jachin/cw-unconf-taleb/master/Ax.png)
+
+////
+
+Solon’s Warning
+===============
+
+## "...it does not matter how frequently something succeeds if failure is too costly to bear."
 
 ////
 
 Jachin The Clockworker is **not** Fooled by Randomness (Again) and His Data is Saved
 ----------------------------
+
+Picture of a hard drive.
 
 ////
 
