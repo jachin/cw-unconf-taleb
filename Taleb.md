@@ -57,7 +57,7 @@ Andy the Farmer
 
 ////
 
-Tom and One Really Bad (in late November)
+Tom and One Really Bad Day (in late November)
 =========================================
 
 ![](https://raw.github.com/jachin/cw-unconf-taleb/master/Ax.png)
