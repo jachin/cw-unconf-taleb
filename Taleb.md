@@ -81,6 +81,8 @@ Picture of a hard drive.
 The Black Swan
 ==============
 
+![](https://raw.github.com/jachin/cw-unconf-taleb/master/BlackSwans.jpg)
+
 ////
 
 Antifragile
