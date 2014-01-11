@@ -20,3 +20,14 @@ http://farm7.staticflickr.com/6053/6384983627_7b6babf227_z.jpg
 
 ## The Ax
 http://commons.wikimedia.org/wiki/File:Ax_(PSF).png
+
+## Hard Drive
+http://en.wikipedia.org/wiki/File:Laptop-hard-drive-exposed.jpg
+
+http://en.wikipedia.org/wiki/File:Heath_Ledger.jpg
+
+http://en.wikipedia.org/wiki/File:Michelle_Williams_by_Gage_Skidmore.jpg
+
+http://commons.wikimedia.org/wiki/File:Death.jpg
+
+http://en.wikipedia.org/wiki/File:Shipping_container_-_rotary_drop_test.jpg
