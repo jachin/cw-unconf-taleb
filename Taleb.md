@@ -95,6 +95,15 @@ Taleb, Nassim Nicholas (2010-05-04). The Black Swan: Second Edition: The Impact 
 
 Taleb, Nassim Nicholas (2010-05-04). The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility" (Kindle Locations 1436-1437). Random House, Inc.. Kindle Edition. 
 
+////
+
+![](https://raw.github.com/jachin/cw-unconf-taleb/master/Heath_Ledger.jpg)
+
+////
+
+![](https://raw.github.com/jachin/cw-unconf-taleb/master/Death.jpg)
+
+////
 
 ////
 
@@ -126,6 +135,8 @@ Antifragile
 
 Shipping an Anitfragil Box
 ==========================
+
+![](https://raw.github.com/jachin/cw-unconf-taleb/master/ShippingBox.jpg)
 
 ////
 
