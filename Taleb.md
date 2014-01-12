@@ -67,14 +67,22 @@ Tom and One Really Bad Day (in late November)
 Solon’s Warning
 ===============
 
-## "...it does not matter how frequently something succeeds if failure is too costly to bear."
+> "...it does not matter how frequently something succeeds if failure is too costly to bear."
 
 ////
 
-Jachin The Clockworker is **not** Fooled by Randomness (Again) and His Data is Saved
-----------------------------
+Jachin's Hardrive
+=================
 
-Picture of a hard drive.
+![](https://raw.github.com/jachin/cw-unconf-taleb/master/Hardrive.jpg)
+
+
+////
+
+Passwords
+=========
+
+## Using the same password.
 
 ////
 
@@ -85,13 +93,13 @@ The Black Swan
 
 ////
 
-## "Mistaking a naïve observation of the past as something definitive or representative of the future is the one and only cause of our inability to understand the Black Swan.
+> "Mistaking a naïve observation of the past as something definitive or representative of the future is the one and only cause of our inability to understand the Black Swan.
 
 Taleb, Nassim Nicholas (2010-05-04). The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility" (Kindle Locations 1390-1391). Random House, Inc.. Kindle Edition.
 
 ////
 
-## "In general, positive Black Swans take time to show their effect while negative ones happen very quickly—it is much easier and much faster to destroy than to build."
+> "In general, positive Black Swans take time to show their effect while negative ones happen very quickly—it is much easier and much faster to destroy than to build."
 
 Taleb, Nassim Nicholas (2010-05-04). The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility" (Kindle Locations 1436-1437). Random House, Inc.. Kindle Edition. 
 
@@ -125,14 +133,24 @@ Google Image Search
 
 ////
 
+MinnPost
+========
+
 ![](https://raw.github.com/jachin/cw-unconf-taleb/master/minnpost.png)
 
 ////
 
-# Heath Ledger dies + Michelle Williams + Google + Minnpost = Insane Amounts of Traffic
+The Black Swan Formula 
+======================
 
-### Literally, Heath Ledger brought our cluster down.
--- Matt Gray in an email sent to staff@ 2008-1-22
+* **Heath Ledger dies**
+*  &plus; Michelle Williams
+*  &plus; Google Image Search
+*  &plus; Minnpost
+*  **= Insane Amounts of Traffic**
+
+> Literally, Heath Ledger brought our cluster down.
+ Matt Gray in an email sent to staff@ 2008-1-22
 
 ////
 
@@ -149,9 +167,9 @@ Antifragile
 
 ////
 
-* ## Frafile: Hurt my small amounts of stress.
-* ## Robust: Not hurt by small amounts of stress.
-* ## Antifragile: Small amounts of stress makes them stronger (often times lack of strees makes them weaker).
+* **Frafile:** Hurt my small amounts of stress.
+* **Robust:** Not hurt by small amounts of stress.
+* **Antifragile:** Small amounts of stress makes them stronger (often times lack of strees makes them weaker).
 
 ////
 
@@ -165,8 +183,22 @@ Shipping an Anitfragil Box
 Clockwork's Process
 ===================
 
-////
+## Clockwork has a very antifragil process.
+## Lots of small mistakes.
+## Lots of small improvements.
 
+////
 
 Clockwork's Team
 ================
+
+## Trust grows when things go wrong.
+
+////
+
+Questions and Discussion
+========================
+
+ * Fooled By Randomness
+ * Black Swan
+ * Antifragile
