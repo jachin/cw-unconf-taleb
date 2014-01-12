@@ -105,6 +105,8 @@ Taleb, Nassim Nicholas (2010-05-04). The Black Swan: Second Edition: The Impact 
 
 ////
 
+![](https://raw.github.com/jachin/cw-unconf-taleb/master/Death.jpg)
+
 ////
 
 # Heath Ledger dies + Michelle Williams + Google + Minnpost = Insane Amounts of Traffic
