@@ -97,15 +97,35 @@ Taleb, Nassim Nicholas (2010-05-04). The Black Swan: Second Edition: The Impact 
 
 ////
 
+Heath Ledger
+============
+
 ![](https://raw.github.com/jachin/cw-unconf-taleb/master/Heath_Ledger.jpg)
 
 ////
 
+Death
+=====
+
 ![](https://raw.github.com/jachin/cw-unconf-taleb/master/Death.jpg)
 
 ////
 
-![](https://raw.github.com/jachin/cw-unconf-taleb/master/Death.jpg)
+Michelle Williams
+=================
+
+![](https://raw.github.com/jachin/cw-unconf-taleb/master/MichelleWilliams.jpg)
+
+////
+
+Google Image Search
+===================
+
+![](https://raw.github.com/jachin/cw-unconf-taleb/master/Google.png)
+
+////
+
+![](https://raw.github.com/jachin/cw-unconf-taleb/master/minnpost.png)
 
 ////
 
