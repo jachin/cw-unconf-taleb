@@ -24,12 +24,14 @@ http://commons.wikimedia.org/wiki/File:Ax_(PSF).png
 ## Hard Drive
 http://en.wikipedia.org/wiki/File:Laptop-hard-drive-exposed.jpg
 
+## Heath Ledger
 http://en.wikipedia.org/wiki/File:Heath_Ledger.jpg
 
+## Michelle Willimas
 http://en.wikipedia.org/wiki/File:Michelle_Williams_by_Gage_Skidmore.jpg
 
+## Death
 http://commons.wikimedia.org/wiki/File:Death.jpg
 
+## Shipping Container
 http://en.wikipedia.org/wiki/File:Shipping_container_-_rotary_drop_test.jpg
-
-http://en.wikipedia.org/wiki/File:Michelle_Williams_by_Gage_Skidmore.jpg
