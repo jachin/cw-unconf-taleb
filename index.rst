@@ -9,9 +9,9 @@ by Jachin Rupe
 .. slide::
    :level: 1
 
-	.. figure:: /_static/Taleb.jpg
-	   :class: fill
-	   :alt: Picture of Nassim Nicholas Taleb
+   .. figure:: /_static/Taleb.jpg
+      :class: fill
+      :alt: Picture of Nassim Nicholas Taleb
 
 Nassim Nicholas Taleb
 =====================
@@ -54,8 +54,9 @@ Andy the Farmer
    .. figure:: /_static/TurkeyLovesAndy.jpg
       :class: fill
 
-Tom Has a Bad Day
-=================
+Tom Has "Just One Bad Day"
+==========================
+
 .. figure:: /_static/Ax.png
    :class: fill
 
@@ -63,6 +64,8 @@ Solon’s Warning
 ===============
 
     "...it does not matter how frequently something succeeds if failure is too costly to bear."
+
+    -- Nassim Taleb
 
 Jachin's Hardrive
 =================
@@ -84,59 +87,62 @@ The Black Swan
 .. slide::
    :level: 1
 
-       "Mistaking a naïve observation of the past as something definitive or representative of the future is the one and only cause of our inability to understand the Black Swan.
+       "Mistaking a naïve observation of the past as something definitive or representative of the future is the one and only cause of our inability to understand the Black Swan."
 
-   Taleb, Nassim Nicholas (2010-05-04). The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility" (Kindle Locations 1390-1391). Random House, Inc.. Kindle Edition.
+       -- Nassim Taleb
 
 .. slide::
    :level: 1
 
        "In general, positive Black Swans take time to show their effect while negative ones happen very quickly—it is much easier and much faster to destroy than to build."
 
-    Taleb, Nassim Nicholas (2010-05-04). The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility" (Kindle Locations 1436-1437). Random House, Inc.. Kindle Edition. 
+      -- Nassim Taleb
 
-Heath Ledger
-============
+.. slide::
+   :level: 1
 
-.. figure:: /_static/HeathLedger.jpg
-   :align: center
+   .. figure:: /_static/HeathLedger.jpg
+      :align: center
 
-Death
-=====
+.. slide::
+   :level: 1
 
-.. figure:: /_static/Death.jpg
-   :class: fill
+   .. figure:: /_static/Death.jpg
+      :align: center
 
-Michelle Williams
-=================
+.. slide::
+   :level: 1
 
-.. figure:: /_static/MichelleWilliams.jpg
-   :class: fill
+   .. figure:: /_static/MichelleWilliams.jpg
+      :align: center
 
-Google Image Search
-===================
+.. slide::
+   :level: 1
 
-.. figure:: /_static/Google.png
-   :align: center
+   .. figure:: /_static/Google.png
+      :align: center
 
-MinnPost
-========
+.. slide::
+   :level: 1
 
-.. figure:: /_static/minnpost.png
-   :align: center
+   .. figure:: /_static/minnpost.png
+      :align: center
 
 The Black Swan Formula 
 ======================
 
-* **Heath Ledger dies**
-*  &plus; Michelle Williams
-*  &plus; Google Image Search
-*  &plus; Minnpost
-*  **= Insane Amounts of Traffic**
+::
 
-   Literally, Heath Ledger brought our cluster down.
+  Heath Ledger dies
+    + Michelle Williams
+    + Google Image Search
+    + Minnpost
+   = Insane Amounts of Traffic
 
-Matt Gray in an email sent to staff@ 2008-1-22
+::
+
+   "Literally, Heath Ledger brought our cluster down."
+   -- Matt Gray in an email sent to staff@ 2008-1-22
 
 .. slide::
    :level: 1
