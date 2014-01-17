@@ -226,3 +226,10 @@ Questions and Discussion
 - Fooled By Randomness
 - Black Swan
 - Antifragile
+
+Thanks
+======
+
+    "May the odds be ever in your favor."
+
+    -- Effie Trinket
