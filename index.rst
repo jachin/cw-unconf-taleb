@@ -34,7 +34,7 @@ Applied Epistemology
 Fooled By Randomness
 ====================
 
-- Humans are not good a probablities.
+- Humans are not good a probabilities.
 - Humans really like causal relationships.
 
 Tom the Turkey
@@ -156,14 +156,14 @@ Antifragile
 
 What is the opposite of "fragile"?
 
-Frafile:
+Fragile:
   Hurt my small amounts of stress.
 Robust:
   Not hurt by small amounts of stress.
 Antifragile:
   Small amounts of stress makes them stronger (often times lack of strees makes them weaker).
 
-Shipping an Anitfragil Box
+Shipping an Antifragile Box
 ==========================
 
 .. figure:: /_static/ShippingBox.jpg
@@ -172,7 +172,7 @@ Shipping an Anitfragil Box
 Clockwork's Process
 ===================
 
-- Clockwork has a very antifragil process.
+- Clockwork has a very antifragile process.
 - Lots of small mistakes.
 - Lots of small improvements.
 
