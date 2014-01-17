@@ -2,7 +2,7 @@
 Fooled By Randomness, The Black Swan and Antifagility
 =====================================================
 
-A very short overview of the ideas of Nassim Nicholas Taleb and how they might be applied at the digital agency.
+A very short overview of the ideas of Nassim Nicholas Taleb and how they might be applied at Clockwork.
 
 by Jachin Rupe
 
@@ -34,13 +34,13 @@ Applied Epistemology
 Fooled By Randomness
 ====================
 
-- Humans are not good a probabilities.
+- Humans are not good at probabilities.
 - Humans really like causal relationships.
 
 Birthday Problem
 ================
 
-How many people do you need in the same room before there's a 50% change that at two people will have the same birthday?
+How many people do you need in the same room before there's a 50% chance that two people will have the same birthday?
 
 .. slide::
    :level: 1
@@ -51,14 +51,14 @@ How many people do you need in the same room before there's a 50% change that at
 Monte Carlo Machine
 ===================
 
-- Flipping a coin 100 times.
+- Flipping a coin 100 times
    - Wow! 7 heads in a row. That amazing.
    - Actually, there's a 52% chance that will happen.
 - 10,000 traders
-   - Each has a 45% chance to make $10,000 per year.
-   - Each has a 55% change to lose $10,000 per year.
+   - Each has a 45% chance to make $10,000 per year
+   - Each has a 55% chance to lose $10,000 per year
    - After 5 years
-     - 184 have made $50,000.
+      - 184 have made $50,000
 
 .. slide::
    :level: 1
@@ -106,7 +106,7 @@ Jachin's Hardrive
 Passwords
 =========
 
-Using the same password.
+Using the same password
 
 The Black Swan
 ==============
@@ -124,7 +124,7 @@ The Black Swan
 .. slide::
    :level: 1
 
-       "In general, positive Black Swans take time to show their effect while negative ones happen very quickly—it is much easier and much faster to destroy than to build."
+      "In general, positive Black Swans take time to show their effect while negative ones happen very quickly—it is much easier and much faster to destroy than to build."
 
       -- Nassim Taleb
 
@@ -181,17 +181,20 @@ The Black Swan Formula
     * As our world becomes more interconnected Black Swans will only become more important.
     * "What do you think will be the next black swan?"
 
+
+==================================
+What is the opposite of "fragile"?
+==================================
+
 Antifragile
 ===========
 
-What is the opposite of "fragile"?
-
-Fragile:
-  Hurt by small amounts of stress.
-Robust:
-  Not hurt by small amounts of stress.
-Antifragile:
-  Small amounts of stress makes them stronger (often times lack of strees makes them weaker).
+   Fragile:
+     Hurt by small amounts of stress.
+   Robust:
+     Not hurt by small amounts of stress.
+   Antifragile:
+     Small amounts of stress makes them stronger (often times lack of strees makes them weaker).
 
 Shipping an Antifragile Box
 ===========================
@@ -208,14 +211,14 @@ Clockwork's Software
 Clockwork's Process
 ===================
 
-- Clockwork has a very antifragile process.
+- Clockwork has a very antifragile process
 - Lots of small mistakes
 - Lots of small improvements
 
 Clockwork's Team
 ================
 
-- Trust grows when things go wrong.
+- Trust grows when things go wrong
 
 Questions and Discussion
 ========================
