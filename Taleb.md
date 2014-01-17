@@ -33,7 +33,7 @@ Applied Epistemology
 Fooled By Randomness
 ====================
 
-## Humans are not good a probablities. ##
+## Humans are not good a probabilities. ##
 
 ## Humans really like causal relationships. ##
 
@@ -168,7 +168,7 @@ Antifragile
 
 ////
 
-* **Frafile:** Hurt my small amounts of stress.
+* **Frafile:** Hurt by small amounts of stress.
 * **Robust:** Not hurt by small amounts of stress.
 * **Antifragile:** Small amounts of stress makes them stronger (often times lack of strees makes them weaker).
 
@@ -185,8 +185,8 @@ Clockwork's Process
 ===================
 
 ## Clockwork has a very antifragil process.
-## Lots of small mistakes.
-## Lots of small improvements.
+## Lots of small mistakes
+## Lots of small improvements
 
 ////
 
