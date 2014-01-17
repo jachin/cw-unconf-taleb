@@ -187,7 +187,7 @@ Antifragile
 What is the opposite of "fragile"?
 
 Fragile:
-  Hurt my small amounts of stress.
+  Hurt by small amounts of stress.
 Robust:
   Not hurt by small amounts of stress.
 Antifragile:
@@ -199,12 +199,18 @@ Shipping an Antifragile Box
 .. figure:: /_static/ShippingBox.jpg
    :class: fill
 
+Clockwork's Software
+====================
+
+ - All software is very fagile.
+ - All the hardware we use is fragile.
+
 Clockwork's Process
 ===================
 
 - Clockwork has a very antifragile process.
-- Lots of small mistakes.
-- Lots of small improvements.
+- Lots of small mistakes
+- Lots of small improvements
 
 Clockwork's Team
 ================
