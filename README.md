@@ -35,3 +35,6 @@ http://commons.wikimedia.org/wiki/File:Death.jpg
 
 ## Shipping Container
 http://en.wikipedia.org/wiki/File:Shipping_container_-_rotary_drop_test.jpg
+
+## Birthday Paradox
+http://en.wikipedia.org/wiki/File:Birthday_Paradox.svg

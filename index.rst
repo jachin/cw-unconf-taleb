@@ -37,6 +37,36 @@ Fooled By Randomness
 - Humans are not good a probabilities.
 - Humans really like causal relationships.
 
+Birthday Problem
+================
+
+How many people do you need in the same room before there's a 50% change that at two people will have the same birthday?
+
+.. slide::
+   :level: 1
+
+   .. figure:: /_static/BirthdayParadox.png
+      :class: fill
+
+Monte Carlo Machine
+===================
+
+- Flipping a coin 100 times.
+   - Wow! 7 heads in a row. That amazing.
+   - Actually, there's a 52% chance that will happen.
+- 10,000 traders
+   - Each has a 45% chance to make $10,000 per year.
+   - Each has a 55% change to lose $10,000 per year.
+   - After 5 years
+     - 184 have made $50,000.
+
+.. slide::
+   :level: 1
+  
+      "Remember that nobody accepts randomness in his own success, only his failure."
+
+      --Nassim Taleb
+
 Tom the Turkey
 ==============
    
@@ -164,7 +194,7 @@ Antifragile:
   Small amounts of stress makes them stronger (often times lack of strees makes them weaker).
 
 Shipping an Antifragile Box
-==========================
+===========================
 
 .. figure:: /_static/ShippingBox.jpg
    :class: fill
