@@ -205,7 +205,7 @@ Shipping an Antifragile Box
 Clockwork's Software
 ====================
 
- - All software is very fagile.
+ - All software is very fragile.
  - All the hardware we use is fragile.
 
 Clockwork's Process
